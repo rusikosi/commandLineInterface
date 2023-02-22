@@ -1,0 +1,12 @@
+first message
+second message
+---------------
+Using the echo command with redirection:
+
+echo First string > file.txt
+echo Second string >> file.txt
+---------------
+The `>` symbol overwrites the file with the first string, 
+and the `>>` symbol appends the second string to the end of the file.
+
+

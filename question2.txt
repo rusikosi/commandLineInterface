@@ -1,0 +1,11 @@
+2. How do I create multiple nested directories, 
+like /c/Users/myusername/these/folders/are/just/for/fun?
+---------------
+Using the mkdir command with the `-p` option 
+to create all directories in the specified path 
+if they don't already exist:
+
+mkdir -p /c/Users/myusername/these/folders/are/just/for/fun
+
+------------------------------------
+------------------------------------

@@ -1,0 +1,13 @@
+first message
+second message
+---------------
+Using a text editor like Vim or Nano:
+
+`nano file.txt`
+---------------
+This will open the Nano text editor in the terminal, where you can manually enter the two strings 
+and save the file. In Nano, you can save the file with the key combination Ctrl + O, and exit with 
+Ctrl + X. In Vim, you can enter insert mode with the i key, enter the text, and save and exit with 
+the command :wq.
+
+
